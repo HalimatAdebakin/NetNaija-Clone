@@ -1,0 +1,138 @@
+.first_container{
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    grid-template-rows: 450px 450px 450px;
+    background-color: grey;
+    padding: 10px;
+    column-gap: 10px;
+    row-gap: 20px;
+    /* grid-gap: 10px; */
+}
+.number1{
+    background-color: black;
+}
+
+
+.pib{
+    background-image: url(https://static.netnaija.com/i/1qGK1yW6KrV.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}  
+.pic{
+    background-image: url(https://static.netnaija.com/i/Aq2NAX1ZazJ.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}  
+.pid{
+    background-image: url(https://static.netnaija.com/i/bvWaqnLXNrk.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}  
+.pie{
+    background-image: url(https://static.netnaija.com/i/zOJab8oxKG2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}  
+.pif{
+    background-image: url(https://static.netnaija.com/i/mjyK6qn0NwD.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}  
+.pig{
+    background-image: url(https://static.netnaija.com/i/3g8NBJXeNDR.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}  
+.pih{
+    background-image: url(https://static.netnaija.com/i/x5PKDOByNnM.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.pii{
+    background-image: url(https://static.netnaija.com/i/9bVNr5pDaWv.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.pij{
+    background-image: url(https://static.netnaija.com/i/W4lNmleYaRo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.pik{
+    background-image: url(https://static.netnaija.com/i/5wPKLe5L7VB.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.pil{
+    background-image: url(https://static.netnaija.com/i/deYaknEk7P3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.pim{
+    background-image: url(https://static.netnaija.com/i/wk37ln1zNPd.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.text1{
+/* display: flex; */
+  font-size:14px;
+  text-align: center;
+  
+}
+.iconkoko{
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 0px 2px 0px 2px;
+}
+h2{
+margin: 0;
+padding: 0;
+color: red;
+}
+span{
+margin: 0px 4px 0px 7px;
+}
+
+
+
+
+
+ 
